@@ -1,4 +1,4 @@
-# Engineering-Projects
+# Engineering Project Portfolio
 
 This repository serves as a portfolio for my engineering-related projects.
 
